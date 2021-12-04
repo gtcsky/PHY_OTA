@@ -1,0 +1,9 @@
+Bough OTA basic on SDK 20210827
+加入了对Flash的读取,用于在OTA模式中显示Device Info
+
+Bough OTA basic on SDK 20210831
+修改了Device Info中的信息相比实际信息在尾部多几个00的问题.
+修改了广播中的system Id长度以及初始两位.
+
+Bough OTA basic on SDK 20210902
+修改OTA模式时,实际广播地址与广播信息中包含地址为不同.
